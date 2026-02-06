@@ -15,4 +15,6 @@ k = 2 give 2 most freq nummbe rfrom the list
  SPACE CPMPLEXCITY 
  1 map hus aue ek queue 
  O(T)+O(T)
+
+ PQ ko code me bolege ki k = 2 ,  2 largest repating numbee de 
  
